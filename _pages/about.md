@@ -29,17 +29,13 @@ I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng.
 - **Research Intern**, Shanghai AI Lab (June 2023–December 2023), advised by Prof. Yu Cheng.
 - **PhD Candidate in the HKUST NLP Group** (2024–Present), supervised by Professor Junxian He.
 
-## Skills and Research Interests
-
-My core research focus is natural language processing and machine learning.
-
-**Research interests:**
+## Research Interests
 
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
-**Skills:**
+## Skills
 
 - Natural Language Processing (NLP) research
 - Machine Learning (ML) research
