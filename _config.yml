@@ -11,7 +11,7 @@ repository: "companywarrioradjust/LJT-Homepage"
 
 # Author Sidebar Settings
 author:
-  avatar: "profile.png"
+  avatar: "https://github.com/Vicent0205.png"
   name: "Junteng Liu"
   pronouns:
   bio: "First-year PhD candidate at the HKUST NLP Group. Research on NLP and machine learning, including LLM reasoning, reinforcement learning, VLM hallucination, and truthfulness and interpretability."
@@ -101,7 +101,7 @@ atom_feed:
 # SEO and Social
 twitter:
   username: "junteng88716710"
-og_image: profile.png
+og_image: https://github.com/Vicent0205.png
 og_description: "Junteng Liu is a first-year PhD candidate in the HKUST NLP Group. Research on NLP, machine learning, LLM reasoning, RL, VLM hallucination, and LLM truthfulness and interpretability."
 social:
   type: Person
